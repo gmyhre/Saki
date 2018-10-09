@@ -1,0 +1,16 @@
+PODS:
+  - Saki (0.1.0)
+
+DEPENDENCIES:
+  - Saki (from `../`)
+
+EXTERNAL SOURCES:
+  Saki:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Saki: c54b264fd0f598edaccebe6383c565a154643370
+
+PODFILE CHECKSUM: e5dd20b1de854bee4b9dc489814f0fc9be598636
+
+COCOAPODS: 1.2.1

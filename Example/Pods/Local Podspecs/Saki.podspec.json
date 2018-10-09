@@ -1,0 +1,22 @@
+{
+  "name": "Saki",
+  "version": "0.1.0",
+  "summary": "A short description of Saki.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gmyhre/Saki",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gmyhre": "graham_myhre@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/gmyhre/Saki.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Saki/Classes/**/*"
+}
